@@ -13,9 +13,11 @@ The dashboard features:
 - Clustered column chart ordered by the top forms of abuse
 - Pie chart of top ages for child victims
 - Gauge for measuring the count of child victims per state 
-  - When state is selected on gauge, this will show the top ages, forms of abuse and perpertrators for this certain state
+  - When state is selected on gauge, this will change each visualization to show the top ages, forms of abuse, and perpertrators for this certain state
 - Slicer for filtering by year
 - Slicer for filtering by submissions, cases, maltreatment types, child fatalities, and other topics
+
+![image](https://user-images.githubusercontent.com/77589773/125520829-6dc93b5d-bdee-4bc0-b3b0-42102f1871f9.png)
 
 ## Technologies
 
